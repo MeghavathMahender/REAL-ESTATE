@@ -44,7 +44,7 @@ This Real-State-Management System is a user-friendly dynamic web application des
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/real-state-management.git
+   git clone https://github.com/MeghavathMahender/real-state-management.git
    cd real-state-management
    ```
 
